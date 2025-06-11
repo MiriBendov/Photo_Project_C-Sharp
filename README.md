@@ -30,7 +30,7 @@ Photo_ssem is a system for managing orders, customers, and images, with an empha
 ## Installation & Running
 
 1. Clone the project to your local machine.
-2. Open `Photo_ssem.sln` in Visual Studio Code.
+2.Open `Photo_ssem.sln` in Visual Studio.
 3. Configure the database connection in `appsettings.json`.
 4. Build the solution.
 5. Run the main project.
